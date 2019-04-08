@@ -1,24 +1,24 @@
 [
     {
-        "name": "example.com",
+        "name": "example.com.",
         "ttl": 3600,
         "class": "IN",
         "type": "A",
         "data": "192.168.12.10"
     },
     {
-        "name": "www.",
+        "name": "www",
         "ttl": 3600,
         "class": "IN",
         "type": "CNAME",
         "data": "192.168.12.10"
     },
     {
-        "name": "example.com",
+        "name": "example.com.",
         "ttl": 3600,
         "class": "IN",
         "type": "MX",
         "priority": 10,
-        "data": "aspmx1.google.com"
+        "data": "aspmx1.google.com."
     }
 ]
